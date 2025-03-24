@@ -1,0 +1,31 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-gray {
+  background-color: lightgray;
+}
+
+.button {
+  background-color: white; /* All buttons white */
+}
+
+.operator {
+  background-color: lightgray; /* Operator buttons */
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flax {
+  display: flex;
+}
+
+.flax-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
